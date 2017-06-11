@@ -1,6 +1,6 @@
 // -------------------------------------------------------------------------
 // Correction d'exercice du cours "Programmer en C sur microcontroleurs".
-// 
+//
 // https://www.logilin.fr/formations/formation-langage-c-embarque-sur-micro-controleurs/
 //
 // (c) 2007-2017 Logilin - https://www.logilin.fr
