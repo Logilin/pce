@@ -119,7 +119,7 @@ int main(void)
 
 	for (;;) {
 		printf("--> ");
-		n = readline(line, 1024);
+		n = readline(line, 256);
 		if (n == 0)
 			continue;
 		for (i = 0; i < n; i ++)
